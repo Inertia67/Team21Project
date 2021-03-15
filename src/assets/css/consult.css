@@ -1,0 +1,37 @@
+.Bookie {
+  width: 100%
+  }
+.book_page {
+  background-color: #f7edfa;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.bookie_d_avatar{
+  width: 42%
+}
+@media only screen and (min-width: 365px) {
+  .date-time{
+    width: 42%;
+    margin: 0px auto;
+  }
+}
+
+.book-now-btn{
+  background: var(--primary);
+  font-weight: bold;
+  margin-top:21px
+}
+
+.book-dr-name{
+font-weight:bold;
+font-size:15px;
+margin-bottom:0px
+}
+
+.book-dr-title{
+  font-weight:bold;
+  font-size:12px;
+  font-style:italic;
+  color:#af7373
+}
