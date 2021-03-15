@@ -58,7 +58,7 @@ export default function AutoGrid() {
               
                 
                 <Grid item xs={12} container direction="row"justify="center" alignItems="center">
-                <Button variant="contained" className="book-now-btn">
+                <Button variant="contained" style={{background: "var(--primary)",fontWeight: "bold",marginTop:21}} className="book-now-btn">
                     Book Now
                 </Button>
                 </Grid>
